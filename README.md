@@ -26,3 +26,5 @@ This paper shows a simple baseline using fasttext that is at par with deep learn
    This presents a conceptually simple and effective transfer learning approach that addresses the problem of catastrophic forgetting. It is based on pretraining a LM and transferring its weights to a classifier with a taskspecific layer. The model is trained using a taskspecific functional with an auxiliary LM loss.Performs very well in small dataset oriented text classification tasks, especially Twitter domain.
    
 6. Multi-label Categorization of Accounts of Sexism using a Neural Framework
+
+7. Hierarchical Attention Networks for Document Classification
