@@ -1,12 +1,5 @@
 # Papers
 This repository contains the papers and blogs I studied during my research work.
-
-# Gender Bias
-
-# Speech
-
-# Low Resource Languages
-
 # Language Modeling
 1. [FUDGE: Controlled Text Generation With Future Discriminators](https://github.com/asuvarna31/Papers/blob/master/Language%20Modelling/2104.05218.pdf)
 
